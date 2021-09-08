@@ -1,0 +1,3 @@
+/home/pritampatel/Desktop/demo/CMakeFiles/rebuild_cache.dir
+/home/pritampatel/Desktop/demo/CMakeFiles/Points.dir
+/home/pritampatel/Desktop/demo/CMakeFiles/edit_cache.dir
