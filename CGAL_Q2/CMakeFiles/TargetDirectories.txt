@@ -1,0 +1,3 @@
+/home/pritampatel/Desktop/CGAL_Q2/CMakeFiles/rebuild_cache.dir
+/home/pritampatel/Desktop/CGAL_Q2/CMakeFiles/cgal_q2.dir
+/home/pritampatel/Desktop/CGAL_Q2/CMakeFiles/edit_cache.dir
